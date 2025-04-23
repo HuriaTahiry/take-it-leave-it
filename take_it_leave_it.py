@@ -1,10 +1,8 @@
 """
 Take it or Leave it Game
 Parody of the "Deal or No Deal" Game Show
-author: Your Elon CSC 1300 Professors
 
-Note: students should not change anything in this file.
-Run this file to play the game.
+
 """
 import turtle
 import time
